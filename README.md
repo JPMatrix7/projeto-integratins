@@ -1,4 +1,4 @@
-A aplicação xxxxxxxx visa realizar a centralização de dados externas ao ecossitema do SUS, de forma a melhorar os indicadores. Para tal foram usados as seguintes tecnologias, sendo requisitos de sistemas são as mesmas ferramentas citadas a baixo:
+A aplicação SaudeIntegrada visa realizar a centralização de dados externas ao ecossitema do SUS, de forma a melhorar os indicadores. Para tal foram usados as seguintes tecnologias, sendo requisitos de sistemas são as mesmas ferramentas citadas a baixo:
 
  - Java, versão 21
 Optamos pela eficiência e suporte a virtual threads, garantindo melhor desempenho em operações concorrentes e maior longevidade da aplicação.
